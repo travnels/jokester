@@ -1,0 +1,19 @@
+{
+  "name": "jokester",
+  "version": "1.0.0",
+  "description": "For something funny",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/travnels/jokester.git"
+  },
+  "author": "travnels",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/travnels/jokester/issues"
+  },
+  "homepage": "https://github.com/travnels/jokester#readme"
+}
